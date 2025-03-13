@@ -1,10 +1,10 @@
-# WeatherPulse
+# SkyStatus
 
 ## Description
 
-WeatherPulse is a responsive weather dashboard that allows users to search for cities and view current weather conditions along with a 5-day forecast. The application presents the city name, date, weather icon, temperature, humidity, and wind speed for both current and future conditions. Each searched city is added to a persistent search history, allowing users to quickly access previously viewed weather data with a single click.
+SkyStatus is a responsive weather dashboard that allows users to search for cities and view current weather conditions along with a 5-day forecast. The application presents the city name, date, weather icon, temperature, humidity, and wind speed for both current and future conditions. Each searched city is added to a persistent search history, allowing users to quickly access previously viewed weather data with a single click.
 
-Built with modern web technologies and powered by the OpenWeather API, WeatherPulse delivers accurate and up-to-date weather information in a clean, intuitive interface.
+Built with modern web technologies and powered by the OpenWeather API, SkyStatus delivers accurate and up-to-date weather information in a clean, intuitive interface.
 
 ## Features
 
@@ -13,6 +13,10 @@ Built with modern web technologies and powered by the OpenWeather API, WeatherPu
 - **5-Day Forecast**: Extended outlook showing weather trends for the upcoming five days
 - **Search History**: Persistent storage of previously searched cities for quick access
 - **Responsive Design**: Optimized for both desktop and mobile devices
+
+## Screenshot
+
+![SkyStatus Dashboard](./assets/images/screenshot.png)
 
 ## Technologies Used
 
@@ -26,7 +30,7 @@ Built with modern web technologies and powered by the OpenWeather API, WeatherPu
 
 ## Deployment
 
-The application is deployed and can be accessed at: [WeatherPulse Live Site](https://weatherpulse.onrender.com/)
+The application is deployed and can be accessed at: [SkyStatus Live Site](https://skystatus.onrender.com/)
 
 ## Installation and Usage
 
@@ -39,7 +43,7 @@ To run this application locally:
 
 2. Navigate to the project directory:
    ```
-   cd WeatherPulse
+   cd SkyStatus
    ```
 
 3. Open the `index.html` file in your preferred browser.
@@ -75,7 +79,7 @@ The application stores searched cities with unique IDs in a JSON file on the ser
 
 ## Contributing
 
-Contributions to improve WeatherPulse are welcome. Please follow these steps:
+Contributions to improve SkyStatus are welcome. Please follow these steps:
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -89,6 +93,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [dxid2001@gmail.com](mailto:your.email@example.com)
+David - [dxid2001@gmail.com](mailto:dxid2001@gmail.com)
 
-Project Link: https://github.com/camxchodxvid/SkyStatus.git | (https://github.com/yourusername/WeatherPulse)
+Project Link: [https://github.com/camxchodxvid/SkyStatus.git](https://github.com/camxchodxvid/SkyStatus.git)
